@@ -10,7 +10,7 @@ Learning GitHub from scratch
 ### 🛠️ Skills (Learning...)
 - Git & GitHub
 - Python / HTML / CSS / JavaScript / PHP (add more as you learn!)
-- Android tools & terminal basics
+- Android tools, SaaS & terminal basics
 
 ### 📈 Goals
 - Learn GitHub daily
